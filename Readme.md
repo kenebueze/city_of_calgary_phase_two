@@ -1,1 +1,1 @@
-Data analysis playground wiht Calgay data by Kene
+Data analysis playground with Calgary
