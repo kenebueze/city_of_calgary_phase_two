@@ -1,1 +1,1 @@
-Data analysis playground with Calgary
+Data analysis playground with Calgary using folium
